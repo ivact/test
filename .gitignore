@@ -6,6 +6,7 @@
 .log
 public/.htaccess
 .test
+.aaa
 
 tmp/*  
 !.gitkeep
