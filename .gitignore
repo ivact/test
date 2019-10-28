@@ -5,6 +5,7 @@
 .env
 .log
 public/.htaccess
+.test
 
 tmp/*  
 !.gitkeep
