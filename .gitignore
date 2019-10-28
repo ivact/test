@@ -1,0 +1,10 @@
+/.settings
+.buildpath
+.project
+.checkstyle
+.env
+.log
+public/.htaccess
+
+tmp/*  
+!.gitkeep
