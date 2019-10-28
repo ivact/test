@@ -1,1 +1,1 @@
-ignore_target_file merge=release
+test.txt merge=release
